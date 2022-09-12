@@ -1,0 +1,15 @@
+.movie-card .ant-input:read-only {
+  border: none;
+  padding: 0;
+}
+
+.movie-card__title {
+  font-size: 16px !important;
+  font-weight: 500;
+}
+
+.movie-card__actions {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
